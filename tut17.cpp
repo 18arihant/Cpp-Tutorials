@@ -32,10 +32,6 @@ void swappointervalue(int &a,int &b) //this will work
 
 }
 
-
-
-
-
 int main()
 {
     int a=4,b=5;
