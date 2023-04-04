@@ -45,7 +45,7 @@ int main()
     // swappointer(&a,&b);
     // cout<<"The value of a is :"<<a<<"The value of b is:"<<b;// this will work
     swappointervalue(a,b);
-    // cout<<"The value of a is :"<<a<<"The value of b is:"<<b;// this will work
+    cout<<"The value of a is :"<<a<<"The value of b is:"<<b;// this will work
 
 
 
