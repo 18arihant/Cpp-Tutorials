@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// Arrays and pointers
+
 int main()
 {
     int marks[4]={1,2,3,4};
