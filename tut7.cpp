@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    //Types oof operators:
+    //Types of operators:
     //1. Aritmetic operators
     int a=4, b=5;
     cout<<"The valure of a+b is"<<a+b<<endl;
@@ -16,6 +16,7 @@ int main()
     cout<<"The valure of ++a is"<<++a<<endl;//first it will increement the value of a by 1 then it will print a=5
     cout<<"The valure of --a is"<<--a<<endl;//first it will decreement the value of a by 1 then it will print a=4
     cout<<endl;
+    
     // 2. comparison operators
     cout<<"The value of a==b is"<<(a==b)<<endl;
     cout<<"The value of a!=b is"<<(a!=b)<<endl;
@@ -24,6 +25,7 @@ int main()
     cout<<"The value of a>b is"<<(a>b)<<endl;
     cout<<"The value of a<b is"<<(a<b)<<endl;
     cout<<endl;
+   
     //3. logical operators (it only gives 0 or 1 i.e. for true --> 1 and for false -->0 )
     cout<<"The value of this logical operation is"<<((a==b) && (a<b))<<endl;
     cout<<"The value of this logical operation is"<<(!(a==b))<<endl;
