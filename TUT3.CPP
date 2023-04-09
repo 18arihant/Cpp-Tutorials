@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//  sum of two numbers
 int main()
 {
     int a=6; 
