@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// types of control statements
 int main()
 {
     //if else if control statement
@@ -18,6 +19,7 @@ int main()
     else{
         cout<<"go out"<<endl;
     }
+    
     //switch control statement
 
     switch (a)
