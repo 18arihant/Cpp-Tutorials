@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-    
     int marks[4]={23,67,34,98};
 
     // using for loop
