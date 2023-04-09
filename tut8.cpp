@@ -10,7 +10,7 @@ int main()
     cin>>b;
     c = a + b; 
     cout<<"the sum is"<<c<<endl;
-    cout<<"the global c is:"<<::c; //"::" this is scope resolution operator to print the value of global c.
+    cout<<"the global c is:"<<::c; // "::" this is scope resolution operator to print the value of global c.
     // reference variables
     float x =  67.99;
     float & y = x;
@@ -22,7 +22,4 @@ int main()
     cout<<float(u);
 
     return 0;
-
-
-
 }
