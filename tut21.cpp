@@ -15,9 +15,6 @@ class employee
             cout<<"The value of d is "<<d<<endl;
             cout<<"The value of e is "<<e<<endl;
        }
-
-
-
 };
 
 void employee :: setdata(int a1, int b1, int c1)
