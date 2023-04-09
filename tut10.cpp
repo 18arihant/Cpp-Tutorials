@@ -2,7 +2,7 @@
 #include<iomanip>
 using namespace std;
 
-// 2 types of manipulators(the make the code beautiful)
+// 2 types of manipulators(to make the code good looking )
 //1. endl
 //2. setw()
 
