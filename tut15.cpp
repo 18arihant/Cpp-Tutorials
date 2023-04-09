@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-struct ep
+struct ep  //structure in c++
 {
     int eid;
     float salary;
