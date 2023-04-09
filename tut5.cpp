@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// sum of two numbers by taking input from the user
 int main()
 {
     int a, b;
@@ -10,6 +11,6 @@ int main()
     cin>>b; //">>" this is extraction operator
     int c;
     c=a+b;
-    cout<<"The sum off two number:"<< a <<" and "<< b <<" is-"<<c<<endl;
+    cout<<"The sum of two numbers: "<< a <<" and "<< b <<" is: "<<c<<endl;
     return 0;
 }
